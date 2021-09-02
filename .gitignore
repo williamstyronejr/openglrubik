@@ -1,0 +1,16 @@
+# Editor settings
+.vscode
+.vs
+.idea
+
+# Build folder
+build
+
+# Output
+main
+
+# CMake/Make
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+Makefile
